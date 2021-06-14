@@ -1,9 +1,9 @@
 package com.example.util.json;
 
-import com.focus.centra.crm.data.model.app.IJsonArrayObject;
-import com.focus.centra.crm.data.model.app.IJsonObject;
-import com.focus.centra.crm.data.model.app.IJsonParentProperty;
-import com.focus.centra.crm.data.model.app.IJsonTarget;
+import com.example.util.json.data.model.app.IJsonArrayObject;
+import com.example.util.json.data.model.app.IJsonObject;
+import com.example.util.json.data.model.app.IJsonParentProperty;
+import com.example.util.json.data.model.app.IJsonTarget;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
